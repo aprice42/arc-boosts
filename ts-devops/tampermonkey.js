@@ -103,10 +103,10 @@ function initBadge() {
     style.textContent = `
       .ado-number-wrapper {
         position: fixed;
-        bottom: 1%;
-        right: 1%;
+        bottom: 5%;
+        left: 1%;
         z-index: 2147483647;
-        text-align: right;
+        text-align: left;
         line-height: 1.0;
         pointer-events: none;
       }
